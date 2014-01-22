@@ -13,7 +13,7 @@
     "component/jquery": "*",
     "component/classes": "*",
     "component/inherit": "*",
-    "component/menu": "*"
+    "redbadger/menu": "*"
   },
   "styles": [
     "dropdown.css"
