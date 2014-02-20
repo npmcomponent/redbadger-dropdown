@@ -2,10 +2,10 @@
  * Module dependencies.
  */
 
-var Menu = require('menu')
-  , classes = require('classes')
-  , inherit = require('inherit')
-  , o = require('jquery');
+var Menu = require('redbadger-menu')
+  , classes = require('component-classes')
+  , inherit = require('component-inherit')
+  , o = require('component-jquery');
 
 /**
  * Expose `Dropdown`.
